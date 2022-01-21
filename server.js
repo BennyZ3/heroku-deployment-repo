@@ -6,6 +6,7 @@ const dino = require("./models/dino.js");
 
 const app = express();
 dotenv.config();
+// PORT is needed for deployment
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
