@@ -2,9 +2,9 @@
 
 <!-- Sometimes heroku login -->
 
-heroku create "name"
-add
-commit
-push heroku main
+  heroku create "name"
+  add
+  commit
+  push heroku main
 
-heroku open
+  heroku open
